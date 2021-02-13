@@ -1,10 +1,20 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Raihan Bin Wahid
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [February 14, Sunday, 2021]. 
 
-## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### Day 1: February 14, 2021
 
-### R1D2
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 
+
+### Day 2: February 15, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** 

@@ -37,4 +37,28 @@ Technology: React, Clarifai-API, tachyons, react-tilt, react-particles-js
 
 3.I solved the "Take a Ten Minute Walk" problem on Codewars.
 
+### Day 3: February 16, 2021
+
+Blurry-Loading | Codewars | Node.js
+
+Hours coded: 1.7
+
+Lines of code: 167
+
+Keystrokes: 2560
+
+Today, I practiced Node.js. It's part of "The Complete Web Developer in 2021: Zero to Mastery" Course. Special thanks to 
+@AndreiNeagoie
+ for this amazing course.
+ 
+### Day 4: February 17, 2021
+
+scroll-animation | Codewars | Node.js  
+
+Hours coded: 3.2
+
+Lines of code: 246
+
+Keystrokes: 3666
+
 

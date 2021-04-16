@@ -8,7 +8,9 @@ The log of my #100DaysOfCode challenge. Started on [February 14, Sunday, 2021].
 Rotating-Navigation-Animation | Face-Recognition-Brain | Codewars
 
 Hours coded: 3.8
+
 Lines of code: 635
+
 Keystrokes: 4819
 
 1.Completed the Rotating-Navigation-Animation project. It was part of the "50 Projects in 50 Days" Udemy Course.
@@ -61,4 +63,17 @@ Lines of code: 246
 
 Keystrokes: 3666
 
+### Day 5: February 18, 2021
 
+Split Landing Page | Face Recognition Brain API
+
+Hours coded: 3.6
+
+Lines of code: 496
+
+Keystrokes: 5320
+
+### Day 6: February 19, 2021
+
+
+### Day 7: February 20, 2021

@@ -84,3 +84,13 @@ Lines of code: 215
 Keystrokes: 2604
 
 ### Day 7: February 20, 2021
+
+Dad Jokes
+
+Hours coded: 1.4
+
+Lines of code: 156
+
+Keystrokes: 2006
+
+

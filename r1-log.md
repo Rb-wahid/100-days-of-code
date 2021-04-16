@@ -75,5 +75,12 @@ Keystrokes: 5320
 
 ### Day 6: February 19, 2021
 
+Form Wave Animation | API
+
+Hours coded: 1.8
+
+Lines of code: 215
+
+Keystrokes: 2604
 
 ### Day 7: February 20, 2021
